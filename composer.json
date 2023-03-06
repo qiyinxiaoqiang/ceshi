@@ -1,0 +1,15 @@
+{
+    "name": "tangqiyin/ceshi",
+    "autoload": {
+        "psr-4": {
+            "Ceshi\\": "src/ceshi"
+        }
+    },
+    "authors": [
+        {
+            "name": "唐启胤",
+            "email": "qiyin_xiaoqiang@163.com"
+        }
+    ],
+    "require": {}
+}
