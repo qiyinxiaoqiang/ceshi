@@ -1,5 +1,6 @@
 {
     "name": "tangqiyin/ceshi",
+    "license":"NIT",
     "autoload": {
         "psr-4": {
             "Ceshi\\": "src/ceshi"
